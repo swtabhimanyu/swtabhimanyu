@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhimanyu-saraswat-84b64b17a" target="_blank">LinkedIn</a>, <a href="https://www.twitter.com/AbhimanyuSaras9" target="_blank">Twitter</a>.
 
 [![Abhimanyu's github stats](https://github-readme-stats.vercel.app/api?username=swtabhimanyu)](https://github.com/swtabhimanyu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swtabhimanyu)](https://github.com/swtabhimanyu/github-readme-stats)
