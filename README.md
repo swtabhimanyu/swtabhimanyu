@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects with unique ideas.
 - 🤔 I’m looking for help with starting Reactjs.
 - 💬 Ask me about Space and let's chat on that topic for hours.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhimanyu-saraswat-84b64b17a" target="_blank">LinkedIn</a>, <a href="https://www.twitter.com/AbhimanyuSaras9"Twitter</a>. 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhimanyu-saraswat-84b64b17a" target="_blank">LinkedIn</a>, <a href="https://www.twitter.com/AbhimanyuSaras9" target="_blank">Twitter</a>. 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
