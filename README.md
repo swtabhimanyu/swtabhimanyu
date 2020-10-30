@@ -23,7 +23,3 @@ Abhimanyu Saraswat this side
 <li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhimanyu-saraswat-84b64b17a" target="_blank">LinkedIn</a>, <a href="https://www.twitter.com/AbhimanyuSaras9" target="_blank">Twitter</a>.</li>
   </ul>
 
-[![Abhimanyu's github stats](https://github-readme-stats.vercel.app/api?username=swtabhimanyu&show_icons=true)](https://github.com/swtabhimanyu/github-readme-stats)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=swtabhimanyu&color=blue)
