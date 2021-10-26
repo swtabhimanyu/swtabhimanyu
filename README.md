@@ -20,7 +20,7 @@ Abhimanyu Saraswat this side
   <li>🌱 I’m currently learning Data Structures and Nodejs.</li>
   <li>👯 I’m looking to collaborate on projects with unique ideas. </li>
   <li> 🤔 I’m looking for help with starting Reactjs.</li>
-<li> 📫 How to reach me: <a href="https://www.linkedin.com/in/abhimanyu-saraswat-84b64b17a" target="_blank">LinkedIn</a>, <a href="https://www.twitter.com/AbhimanyuSaras9" target="_blank">Twitter</a>.</li>
+<li> 📫 How to reach me: <a href="www.linkedin.com/in/saraswat-abhimanyu" target="_blank">LinkedIn</a>, <a href="https://www.twitter.com/AbhimanyuSaras9" target="_blank">Twitter</a>.</li>
   </ul>
 
 [![Abhimanyu's github stats](https://github-readme-stats.vercel.app/api?username=swtabhimanyu)](https://github.com/swtabhimanyu/github-readme-stats)	
